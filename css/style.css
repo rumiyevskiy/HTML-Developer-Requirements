@@ -407,7 +407,7 @@ body.__touch .header__menu__list > li.__active .header__menu__item__arrow {
   bottom: 0;
   background-image: url("./img/3.webp");
   background-size: 50% auto;
-  opacity: 0.2; /* Прозорість тільки для фону */
+  opacity: 0.2;
   z-index: -1;
 }
 
