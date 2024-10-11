@@ -405,7 +405,7 @@ body.__touch .header__menu__list > li.__active .header__menu__item__arrow {
   left: 0;
   right: 0;
   bottom: 0;
-  background-image: url("./img/3.webp");
+  background-image: url("../img/3.webp");
   background-size: 50% auto;
   opacity: 0.2;
   z-index: -1;
